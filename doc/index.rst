@@ -11,6 +11,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
+   installation.rst
    example_top_artists.rst
    workflows.rst
    tasks.rst
